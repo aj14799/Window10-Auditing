@@ -1,4 +1,4 @@
-
+#Developer ADITYA JHA AND GAURAV GUPTA
 import time
 import re    
 import win32com.shell.shell as shell
@@ -56,7 +56,7 @@ def password_policy_logs():
             if line!='':
                 ls.append(line.split(' = '))
                 counter+=1
-                
+     #CREATORS GAURAV GUPTA AND ADITYA JHA            
     ls=dict(ls)
     ###############################################################################
     print('\n|{:_^30}|{:_^16}|{:_^72}|'.format('Keys','UserValues','RecommendedValues'))
@@ -101,7 +101,7 @@ def password_policy_logs():
         if choice=='':
             break
     #############################################################################
-    
+    #CREATORS ADITYA JHA AND GAURAV GUPTA
     #choice=input("Enter Choice ")   
 password_policy_logs()
 #password_policy_logs(name)   
