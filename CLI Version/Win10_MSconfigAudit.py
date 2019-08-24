@@ -1,3 +1,4 @@
+#CREATORS ADITYA JHA AND GAURAV GUPTA
 import subprocess
 import re
 import win32com.shell.shell as shell
@@ -46,6 +47,7 @@ class MsConfig():
             print("Enter Correct Value")
         command='wmic service list '+di[opt]
         if opt==2:
+    #CREATORS ADITYA JHA AND GAURAV GUPTA   The Coder       
             command='wmic service get DesktopInteract,ErrorControl,Name,ServiceType,StartMode'
         if opt==5:
             command=' wmic service get name, processid, startmode, state, status, exitcode,servicetype /format: table'
@@ -151,6 +153,8 @@ class MsConfig():
         command='wmic os list '+di[opt]
         try: 
             a=eval("subprocess.getoutput(command)")
+            
+            #CREATORS ADITYA JHA AND GAURAV GUPTA The Developers
             if opt==1:
                 self.simplify_G(a,rm_ls_no=1,rm_ls_keys=['Organization'])
             if opt==2:
@@ -229,7 +233,7 @@ class MsConfig():
             print("Error \n Cannot proceed")
     
 obj=MsConfig()
-    
+    #Developer ADITYA JHA AND GAURAV GUPTA
 a=['service_info', 'startup_info', 'bios_info', 'computersystem_info', 'useraccount_info', 'cpu_info' \
    , 'group_info', 'os_info', 'sysaccount_info', 'process_info', 'net_info']
 
