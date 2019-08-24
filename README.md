@@ -1,4 +1,4 @@
-# Window10-Auditing
+# Window10-Audit
   -By Aditya Jha and Gaurav Kumar Gupta
   
   www.github.com/aj14799
