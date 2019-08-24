@@ -8,7 +8,7 @@ import win32com.shell.shell as shell       #To run windows command in Shell with
 import time
 import tkinter as tk
 
-
+##edit##
 class win1(Tk):    #Opening  tkinter window
     new = None
 
