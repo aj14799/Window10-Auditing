@@ -354,6 +354,9 @@ class Password_Policy(Tk):      # Creating Windows Password Policies conif class
                               'This setting specifies whether the Administrator account on the local computer is enabled.'
                               'If the value element contains a nonzero value, the setting is enabled; otherwise, the setting is disabled.')
         
+##############################################################
+      ''' Director ADITYA JHA AND GAURAV GUPTA'''
+############################################### 
         #Informations  and Explainations
 
         tk.mainloop()
@@ -555,6 +558,9 @@ class MsConfig(Tk):        #Microsoft Configruation class
         try:
             a = eval("subprocess.getoutput(command)")
             T = tk.Text(self, height=200, width=126, bg='#000000', fg='#FFFFFF')
+            ##############################################################
+      ''' Director ADITYA JHA AND GOURAV GUPTA'''
+############################################### 
             T.pack()
             T.insert(tk.END, a)
         except:
@@ -918,6 +924,10 @@ class change(Tk):
         self.txt3.bind('<Return>', self.call4)
         self.txt4.bind('<Return>', self.call5)
         self.txt5.bind('<Return>', self.call6)
+        
+        ##############################################################
+      ''' Director and Creator ADITYA JHA AND GAURAV GUPTA '''
+############################################### 
         self.but = Button(self, text='BACK', font=('Courier', 15, 'bold'), fg='#436632', bg='#abcdef', width=15,
                           cursor='hand2',
                           activebackground='#86cc64', command=self.back)
