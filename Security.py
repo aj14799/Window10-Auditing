@@ -82,7 +82,7 @@ class win2(Tk):
 
 
 ##############################################################
-      ''' CREATORS ADITYA JHA AND GAURAV GUPTA'''
+      #''' CREATORS ADITYA JHA AND GAURAV GUPTA'''
 ###############################################        
         
         self.txt5.grid(row=6, column=2)
