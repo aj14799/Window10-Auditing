@@ -1,0 +1,71 @@
+HNAME,ID,A+,APOS,B+,BPOS,AB+,ABPOS,O+,O,O-,ONE,AB-,ABNE,A-,ANE,B-,BNE,Location,Category,Review,Distance(in kms),,Review1,Review2
+All India Institute of Medical Sciences (AIIMS),1,13,0,66,1,15,0,39,1,17,1,41,1,3,0,1,0,"AIIMS, Main Blood Bank, Ansari Nagar, Ring Road",Public/Government,,31,,2,5
+Armed Forces Transfusion Centre,2,55,1,5,0,12,0,3,0,4,0,9,0,69,1,7,0,"Delhi Cantonment, Area Sadar Bazar, Army Public School",Public/Government,,29,,2,1
+Dr. Ram Manohar Lohia Hospital,3,12,0,21,1,15,0,13,0,16,1,24,1,63,1,6,0,"Baba Kharak Singh Marg, near Gurudwara Bangla Sahib, Connaught Place",Public/Government,,7,,2,5
+E.S.I. Hospital,4,68,1,11,0,6,0,28,1,10,0,21,1,36,1,56,1,"ESI Hospital, Basai Darapur, Ring Road",Public/Government,,40,,2,3
+Safdarjung Hospital,5,8,0,16,1,5,0,0,0,2,0,24,1,9,0,22,1,"Safdarjung Hospital, Ansari Nagar, Ring Road",Public/Government,,18,,2,3
+Sucheta Kriplani Hospital,6,35,1,70,1,11,0,20,1,17,1,39,1,25,1,62,1,"C-604, Shaheed Bhagat Singh Road, DIZ Area",Public/Government,,32,,4,1
+Govind Ballabh Pant Hospital,7,55,1,19,1,11,0,0,0,6,0,58,1,51,1,29,1,"G.B. Pant Hospital,Jawahar Lal Nehru Marg, Delhi Gate",Public/Government,,1,,5,4
+Guru Tegh Bahadur Hospital,8,11,0,7,0,4,0,29,1,20,1,58,1,1,0,49,1,"G T B Hospital, Shahadara",Public/Government,,9,,5,1
+Regional Blood tranfusion Center of Central zone,9,30,1,3,0,17,1,19,1,9,0,10,0,23,1,29,1,"2 Jawarlal Nehru Marg, Delhi Gate",Public/Government,,37,,4,2
+Sushrut Trauma Centre,10,46,1,22,1,4,0,69,1,3,0,26,1,47,1,16,1,"Civil Lines, 9, Metcalf Road",Public/Government,,32,,4,2
+Sanjay Gandhi Memorial Hospital,11,0,0,13,0,8,0,20,1,13,0,7,0,36,1,69,1,"S- Block, Mangolpuri",Public/Government,,16,,2,3
+Dr. Baba Sahab Ambedkar Hospital,12,12,0,47,1,18,1,60,1,7,0,22,1,20,1,5,0,"Sector-6, Rohini",Public/Government,,39,,1,4
+Institute of Liver and Biliary Sciences,13,21,1,54,1,19,1,39,1,11,0,43,1,66,1,48,1,"D-1, Vasant Kunj",Public/Government,,13,,5,5
+Lal Bahadur Shastri Hospital,14,63,1,10,0,12,0,8,0,13,0,51,1,0,0,61,1,"Near Kalyanvas Colony/Mayur Vihar Phase -II, GNCTD Kichdipur",Public/Government,,37,,1,4
+Hindu Rao Hospital,15,58,1,6,0,3,0,58,1,19,1,63,1,66,1,36,1,"DR. J.S. Kkaranwal Memorial Road, Near Malka Ganj, Sabji Mandi, Malka Ganj",Public/Government,,7,,4,1
+Kasturba Gandhi Hospital,16,41,1,51,1,6,0,60,1,11,0,49,1,52,1,11,0,"Near Jama Masjid, Daryaganj",Public/Government,,30,,1,3
+Swami Dayanand Hospital,17,33,1,45,1,4,0,7,0,3,0,5,0,36,1,39,1,Dilshad Garden,Public/Government,,45,,2,5
+Holy Family Hospital,18,14,0,10,0,5,0,33,1,6,0,27,1,40,1,41,1,Okhla Road,Private,,35,,2,5
+Mata Chanan Devi Hospital,19,21,1,48,1,0,0,38,1,5,0,6,0,37,1,65,1,C-1 JANAKPURI NEW DELHI,Private,,36,,2,4
+Shri Moolchand Khariti-ram Hospital and Ayurvedic Research Institute,20,30,1,45,1,7,0,59,1,16,1,8,0,70,1,46,1,"Mool Chand Hospital, Lajpat Nagar-III",Private,,38,,2,1
+National Heart Institute,21,67,1,17,1,4,0,5,0,1,0,62,1,24,1,25,1,"49, Community Center, East of Kailash",Private,,12,,2,3
+Sunder Lal Jain Charitable Hospital,22,18,1,48,1,9,0,14,0,8,0,30,1,0,0,10,0,"Ashok Vihar, Phase-III",Private,,6,,4,5
+St. Stephens Hospital,23,7,0,18,1,9,0,26,1,10,0,43,1,4,0,19,1,"St. Stephen Hospital, Tis Hazari",Private,,17,,1,3
+"Pushpawati Singhania Research Institute (For Liver, Renal and Digestive Disease)",24,53,1,61,1,16,1,40,1,5,0,1,0,26,1,32,1,"Press Enclave Marg, Sheikh Sarai, Phase II",Private,,41,,3,3
+Maharaja Agrasen Hospital,25,35,1,37,1,18,1,70,1,7,0,33,1,12,0,47,1,West Punjabi bagh,Private,,25,,2,1
+Delhi Heart and Lung Institute,26,54,1,6,0,9,0,4,0,5,0,24,1,65,1,65,1,"3 MM-11, Panchkuian Road",Private,,5,,4,3
+Shree Balaji Action Medical Institute,27,63,1,42,1,2,0,25,1,0,0,13,0,57,1,31,1,"FC-34, A-4, Paschim Vihar",Private,,14,,2,1
+"Max Super Specialty Hospital, Heart and Vascular Institute",28,40,1,38,1,15,0,31,1,16,1,12,0,59,1,23,1,"2, Press Enclave Road, Saket",Private,,28,,3,2
+Dr. BL Kapoor Memorial Hospital,29,22,1,46,1,10,0,62,1,16,1,20,1,27,1,18,1,"B.L.K. Memorial Hospital, 5 Pusa Road",Private,,35,,3,2
+Kalra Hospital and Shri Ram Cardiothoracic and Neurosciences Center (SRCNC),30,22,1,9,0,6,0,25,1,6,0,34,1,66,1,17,1,"Kalra Hospital SRNCNC, A-4, Kirti Nagar",Private,,42,,4,2
+Park Hospital,31,36,1,3,0,19,1,66,1,0,0,0,0,41,1,60,1,"Keshopur Sabzi Mandi, New Chaukhandi, Vishnu Garden",Private,,44,,3,4
+Fortis Hospital,32,52,1,28,1,2,0,31,1,18,1,0,0,43,1,30,1,"A- Block, Shalimar Bagh",Private,,42,,5,4
+Bhagat Chandra Hospital,33,49,1,54,1,3,0,23,1,11,0,12,0,6,0,35,1,"RZF-1/1, Mahavir Enclave, Palam",Private,,0,,4,2
+Indian Spinal Injuries Centre,34,9,0,44,1,18,1,58,1,10,0,32,1,12,0,14,0,"C-8, Vasant Kunj",Private,,25,,5,5
+Saket City Hospital,35,14,0,1,0,20,1,51,1,1,0,66,1,13,0,65,1,"Mandir Marg, Press Enclave Road, Saket",Private,,31,,1,5
+Bensups Hospital,36,50,1,11,0,17,1,58,1,2,0,13,0,67,1,24,1,"Bansups Avenue, Sector ? 12, Dwarka",Private,,15,,3,5
+Indian Red Cross Society,37,65,1,42,1,18,1,19,1,8,0,14,0,36,1,35,1,"1, Red Cross Road, Opposite Parliament House-New Delhi",NA,,16,,4,4
+Rockland Hospital Qutab,38,35,1,15,0,0,0,28,1,11,0,63,1,54,1,64,1,"B, 33-34, Qutab Institutional Area",Private,,3,,4,1
+Primus Ortho and Spine Hospital,39,29,1,61,1,4,0,48,1,18,1,17,1,0,0,55,1,"Primus Super Speciality Hospital,02, Chandragupta Marg, Lower Ground Floor, Chanakyapuri",Private,,16,,5,2
+Max Super Specialty Hospital (A Unit of Max Health Care Institute Ltd),40,66,1,67,1,9,0,41,1,13,0,47,1,53,1,11,0,"FC-50, Block C and D, Shalimar Bagh",Private,,20,,5,4
+Hakeem Abdul Hameed Centenary Hospital,41,58,1,64,1,3,0,45,1,17,1,10,0,34,1,41,1,"Jamia Hamdard, Hamdard Nagar",Private,,21,,3,3
+White Cross Blood Bank,42,61,1,63,1,16,1,5,0,1,0,46,1,70,1,10,0,"A-60, East Of Kailash",NA,,5,,4,3
+Mission Jan Jagriti,43,41,1,10,0,17,1,27,1,1,0,28,1,5,0,39,1,"MGS Hospital, Rohtak road, 35/37 West Punjabi Bagh",Private,,29,,2,3
+Pitampura Blood Bank,44,2,0,13,0,1,0,35,1,15,0,12,0,56,1,51,1,"B-294, Saraswati Vihar, Outer Ring Road, Pitampura",Private,,4,,1,3
+Lions Blood Bank,45,39,1,2,0,16,1,53,1,6,0,59,1,24,1,52,1,"A.K.-100, Shalimar Bagh","NGO, Private",,3,,1,2
+Batra Hospital and Medical Research Centre,46,32,1,55,1,16,1,24,1,14,0,17,1,35,1,52,1,"1,Tuglakabad Institutional Area, Mehrauli Badarpur Road, Tughlakabad",Private,,37,,5,5
+Blood Bank Organisation,47,21,1,42,1,11,0,35,1,14,0,26,1,14,0,48,1,"11/6B Shanti Chamber, Opposite Telephone Exchange, Pusa Road",Private,,16,,1,3
+Rotary Blood Bank,48,8,0,47,1,7,0,66,1,20,1,37,1,49,1,47,1,"56-57,Institutional Area, Tughlakabad , next to batra hospital",Private,,0,,5,5
+"Mission Jan Jagriti Blood Bank, Altius Sonia Hospital",49,24,1,17,1,0,0,37,1,17,1,69,1,57,1,43,1,"1, Altius Sonia Hospital, Basement, 1, Gulshan Park, Rohtak Road, Nangloi metro station, Metro Piller Number 444",Private,,23,,2,3
+Dharamshila Cancer Foundation and Research Centre,50,4,0,20,1,18,1,1,0,16,1,44,1,3,0,29,1,"Vasundhara Enclave, Mayur Vihar.",Private,,5,,1,2
+Sir Ganga Ram Hospital,51,40,1,45,1,19,1,57,1,9,0,60,1,2,0,39,1,"Sir Ganga Ram Road, Old Rajendra NagarNew Delhi- 110060",Private,,22,,4,4
+Sant Parmanand Hospital,52,22,1,38,1,10,0,0,0,11,0,23,1,18,1,21,1,"18, Shyamnath Marg, Civil Lines",Private,,43,,5,2
+"R. B. T. C (wz),Deen Dayal Upadhyay Hospital",53,2,0,47,1,19,1,57,1,3,0,11,0,23,1,34,1,"Hari Nagar, Near clock tower",Government,,3,,3,1
+Jai Prakash Narayan Apex Trauma Centre,54,44,1,30,1,9,0,56,1,13,0,10,0,21,1,51,1,"Jai Prakash Narayen Apex Trauma Centre, AIIMS, Raj Nagar,Ring Road",Private,,22,,2,5
+Brahm Shakti Hospital and Research Centre,55,68,1,9,0,0,0,52,1,16,1,13,0,57,1,27,1,"Brahma Shakti Hospital, U-1/78, Budh Vihar",Private,,35,,5,5
+Max Super Specialty Hospital (Max Balaji Hospital),56,59,1,29,1,11,0,35,1,0,0,2,0,51,1,7,0,"A unit of Balaji Medical and Diagnostic Research Centre, 108-A, Indraprastha Extension, Opposite Sanchar Apartment, Patparganj",Private,,12,,5,4
+Saroj Hospital and Heart Institute Run by Ganesh Das Chowla Charitable Trust (Regd.),57,14,0,66,1,9,0,3,0,10,0,25,1,11,0,41,1,"Saroj Hospital and Heart Institute, Sector-14, Rohini, Madhuban Chowk",Private,,42,,1,3
+Fortis Flt. Lt. Rajan Dhall Hospital (A unit of Flt. Lt. Ranjan Dhall Charitable Trust Regd.),58,33,1,1,0,8,0,15,0,3,0,61,1,20,1,68,1,"Sector-B, Pocket-1, Aruna Asaf Ali Marg, Vasant Kunj",Private,,21,,4,4
+Rajiv Gandhi Cancer Institute and Research Center,59,67,1,17,1,1,0,30,1,11,0,23,1,7,0,12,0,"Rajiv Gandhi Cancer Institute, Sector-V Rohini",Private,,35,,5,2
+Apollo Hospital,60,26,1,32,1,2,0,9,0,14,0,55,1,54,1,40,1,"Indraprastha Medical Corporation, Sarita Vihar",Private,,16,,1,4
+Fortis Escort Heart Institute,61,35,1,61,1,0,0,52,1,2,0,4,0,19,1,33,1,"Fortis Escort Heart Institute, Okhla Road",Private,,4,,5,5
+Northern Railway Central Hospital,62,63,1,18,1,2,0,67,1,17,1,28,1,7,0,47,1,"Northern Railway Hospital, Basant Lane",Public/Government,,8,,2,2
+Jaipur Golden Hospital,63,36,1,9,0,9,0,12,0,5,0,21,1,56,1,54,1,"2, Industrial Area, Rohini, Sector-III",Private,,29,,5,2
+Dr.Hedgewar ArogayaSansthan,64,13,0,11,0,7,0,21,1,6,0,30,1,58,1,18,1,"Dr. Hedgewar Arogya Sansthan, F-18, Karkardooma",Government,,21,,3,2
+Central Poly Clinic Blood Bank,65,24,1,70,1,14,0,28,1,14,0,50,1,68,1,44,1,"3, Gangan Vihar, Shahdara Road",NA,,45,,4,5
+Lions Blood Bank,66,65,1,18,1,3,0,4,0,15,0,22,1,45,1,57,1,"369, II Floor, FIE, Near M.C.D. Office, Patparganj Industrial Area,",NGO,,2,,4,1
+Pushpavati Shinghania Research Institute for Liver,67,55,1,33,1,15,0,68,1,9,0,24,1,66,1,27,1,"Reneals and Digestive Diseases, Press Enclave Marg, Sheikh Sarai, Phase-II",NA,,4,,2,3
+"Cardio Neuro Centre, AIIMS",68,6,0,46,1,6,0,64,1,16,1,23,1,59,1,12,0,"AIIMS, Ansari Nagar",Public,,2,,2,1
+Jan Jagriti Blood bank,69,68,1,69,1,2,0,42,1,6,0,65,1,57,1,34,1,"Mission Jan Jagriti, Blood Bank. C/o Jeevan Anmol Hospital Mayur Vihar Phase I",NA,,20,,5,2
+,,,,,,,,,,,,,,,,10,,,,,,,3,1
