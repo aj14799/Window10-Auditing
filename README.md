@@ -22,6 +22,8 @@ Policies will be shown in by this desktop application. So that it is eaiser to c
 
 => win32com.shell.shell :-             pip install pywin32
 
+=> subprocess           :-             pip install subprocess.run or pip install subprocess.run 
+
 ### =================// More About Windows Auditing \\\\======================
 
 
